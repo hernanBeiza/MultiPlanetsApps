@@ -2,7 +2,10 @@
 
 Demo de uso de ngx-planet
 
-- Documentation soon
+### Soon
+
+- Documentation
+- Check building process
 
 ## Run example
 
